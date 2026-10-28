@@ -32,39 +32,39 @@
         "userProfileUserStatusEnabled": true,
         "downloadGameClients": [
           {
-            "imageUrl": "https://www.pekora.zip/img/player.png",
+            "imageUrl": "https://onrender.com",
             "title": "Download the latest Pekora bootstrapper",
-            "url": "https://github.com/KoroneX/Korone-Bootstrapper/releases"
+            "url": "https://github.com"
           },
           {
-            "imageUrl": "https://www.pekora.zip/img/Pekora.png",
+            "imageUrl": "https://onrender.com",
             "title": "Mobile clients",
-            "url": "https://www.pekora.zip/download2"
+            "url": "https://onrender.com"
           },
           {
-            "imageUrl": "https://www.pekora.zip/img/studio.png",
+            "imageUrl": "https://onrender.com",
             "title": "Download the Korone 2017 Studio for Windows (Unstable, 2018 recommended)",
-            "url": "https://setup.pekora.zip/PekoraStudio2017.zip"
+            "url": "https://onrender.com"
           },
           {
-            "imageUrl": "https://www.pekora.zip/img/studio.png",
+            "imageUrl": "https://onrender.com",
             "title": "Download the Korone 2018 Studio for Windows",
-            "url": "https://setup.pekora.zip/PekoraStudio2018.zip"
+            "url": "https://onrender.com"
           },
           {
-            "imageUrl": "https://www.pekora.zip/img/studio.png",
+            "imageUrl": "https://onrender.com",
             "title": "Download the Korone 2020 Studio for Windows",
-            "url": "https://setup.pekora.zip/PekoraStudio2020.zip"
+            "url": "https://onrender.com"
           },
           {
-            "imageUrl": "https://www.pekora.zip/img/studio.png",
+            "imageUrl": "https://onrender.com",
             "title": "Download the Korone 2021 Studio for Windows",
-            "url": "https://setup.pekora.zip/PekoraStudio2021.zip"
+            "url": "https://onrender.com"
           }
         ]
       },
-      "baseUrl": "https://www.pekora.zip",
-      "apiFormat": "https://www.pekora.zip/apisite/{0}{1}"
+      "baseUrl": "https://korone-zz4t.onrender.com",
+      "apiFormat": "https://onrender.com{0}{1}"
     }
   }
 }
