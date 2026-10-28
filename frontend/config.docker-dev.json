@@ -63,8 +63,8 @@
           }
         ]
       },
-      "baseUrl": "https://korone-zz4t.onrender.com",
-      "apiFormat": "https://onrender.com{0}{1}"
+      "baseUrl": "https://onrender.com",
+      "apiFormat": "https://onrender.com/apisite/{0}{1}"
     }
   }
 }
