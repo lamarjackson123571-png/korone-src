@@ -1,0 +1,9 @@
+# The website is the Next.js app in frontend/. The rest of the repo (api, game
+# server, RCCService, C# services) is backend code that isn't deployed here.
+[build]
+  base = "frontend"
+  # Install dependencies (dev deps included: next.config.js needs
+  # @next/bundle-analyzer). next.config.js also requires a config.json, which
+  # is gitignored; seed it from the committed production config if missing.
+  command = "npm install --include=dev && ([ -f config.json ] || cp config.docker-prod.json config.json) && npm run build"
+  publish = ".next"
